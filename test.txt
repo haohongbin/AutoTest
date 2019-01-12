@@ -5,3 +5,4 @@ hello
 =======
 分支mergedemo上增加内容
 >>>>>>> mergedemo
+version1
